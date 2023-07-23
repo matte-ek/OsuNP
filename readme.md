@@ -1,3 +1,5 @@
+Fork that downgrades to a previous version (pre sys-tray, cannot bother to fix that right now) with some fixes glued together for use with Linux
+
 # OsuNowPlaying
 
 A program to display what you are currently playing on your osu! profile or elsewhere.
@@ -56,8 +58,6 @@ to discuss what you would like to change.
 [gosumemory](https://github.com/l3lackShark/gosumemory) for making this project possible
 
 [TeQnix](https://github.com/TeQnix) for helping with design changes
-
-[Matte](https://github.com/matte-ek/) for ideas and motivating me to work on the project
 
 ## License
 
